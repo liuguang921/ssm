@@ -39,7 +39,7 @@
     <slf4j.version>1.7.13</slf4j.version>
 
     <!--5.其他-->
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <servlet.version>4.0.0</servlet.version>
     <lombok.version>1.18.2</lombok.version>
     <!-- redis与spring的整合依赖 -->
